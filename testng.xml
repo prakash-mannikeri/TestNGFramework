@@ -1,0 +1,8 @@
+<suite name="TestNGFramework">
+    <test name ="testng">
+        <classes>
+           <class name="com.mycompany.project.AppTest" />
+            <class name="com.mycompany.project.SeleniumTest" />
+        </classes>
+    </test>
+</suite>

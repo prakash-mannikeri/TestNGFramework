@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="153541" started-at="2019-06-23T15:07:21Z" finished-at="2019-06-23T15:09:54Z">
+    <groups>
+    </groups>
+    <test name="TestNGFramework" duration-ms="153541" started-at="2019-06-23T15:07:21Z" finished-at="2019-06-23T15:09:54Z">
+      <class name="com.mycompany.project.AppTest">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:com.mycompany.project.AppTest@2a18f23c]" name="launchbrowser" duration-ms="153482" started-at="2019-06-23T15:07:21Z" finished-at="2019-06-23T15:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.mycompany.project.AppTest@2a18f23c]" name="testMethod" duration-ms="2" started-at="2019-06-23T15:09:54Z" finished-at="2019-06-23T15:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- com.mycompany.project.AppTest -->
+    </test> <!-- TestNGFramework -->
+  </suite> <!-- Default Suite -->
+</testng-results>

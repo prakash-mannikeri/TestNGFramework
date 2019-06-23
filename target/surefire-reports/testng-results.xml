@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNGFramework" duration-ms="88" started-at="2019-06-13T03:49:37Z" finished-at="2019-06-13T03:49:37Z">
+    <groups>
+    </groups>
+    <test name="testng" duration-ms="88" started-at="2019-06-13T03:49:37Z" finished-at="2019-06-13T03:49:37Z">
+      <class name="com.mycompany.project.AppTest">
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.mycompany.project.AppTest@47fd17e3]" name="testMethod" duration-ms="21" started-at="2019-06-13T03:49:37Z" finished-at="2019-06-13T03:49:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- com.mycompany.project.AppTest -->
+    </test> <!-- testng -->
+  </suite> <!-- TestNGFramework -->
+</testng-results>
